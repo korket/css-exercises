@@ -1,0 +1,21 @@
+.pink {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pink-big {
+    font-size: 24px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
